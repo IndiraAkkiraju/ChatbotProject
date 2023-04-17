@@ -1,3 +1,1 @@
-first commit for chatBotProject
-second line
-unstaged change
+this is a simple version where a connection is establised between the chatPT and my chatbot python application. the user can ask a queston or prompt once and the chatGPT api will provde a result. another whole session needs to be staif the user has another question and there will be no data transfer from previoous sessions. end.
